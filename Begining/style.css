@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+}
+
+.first{
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-variant: small-caps;
+    background-color: floralwhite;
+}
+#special{
+    color: red;
+    font-weight: bolder;
+}
+.divtag{
+    border: 5px dotted black;
+    border-radius: 10px;
+    margin: 2%;
+    padding: 10px;
+    text-align: justify;
+    text-align: center;
+    width: 20%;
+    float:inline-end;
+    display: inline-block;
+}
